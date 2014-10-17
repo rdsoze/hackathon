@@ -56,6 +56,8 @@ Top Submissions
 
 	[Source Code](https://github.com/rdsoze/uglyindian/)
 	
+	[API Documentation](http://tui-docs.geekd.in)
+	
 
 
 - Clean My India by **Tajinder Pal Singh** from **Codebibber**
